@@ -33,6 +33,7 @@ A script to capture screenshots from Google Slides presentations
 3. Screenshots will be saved in separate directories within slides_screenshots.
 
 # Project Structure
+
 google-presentation-screenshot/
 │
 ├── google-presentation-screenshot.py
