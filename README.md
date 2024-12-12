@@ -34,7 +34,11 @@ A script to capture screenshots from Google Slides presentations
 
 # Project Structure
 google-presentation-screenshot/
+
 │
+
 ├── screenshot_script.py      # Your Python script file
+
 ├── README.md                 # Instructions for usage
+
 └── slides_screenshots/       # Directory where screenshots will be saved per presentation URL.
