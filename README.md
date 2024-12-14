@@ -1,5 +1,5 @@
 # google-presentation-screenshot
-A script to capture screenshots from Google Slides presentations
+A script to capture screenshots from Google Slides presentations. In the event of limited access and not being able to download a presentation from Google Slides - this will allow to automatically take screenshots of slides from multiple presentation URLs and place it into separate folders on your machine.
 
 # Requirements
 
